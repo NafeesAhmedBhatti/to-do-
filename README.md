@@ -1,5 +1,13 @@
-# to-do-
-A basic To-Do application using ReactJS that allows users to add, view, and delete tasks.
+# React To-Do Application
+This is a simple To-Do application built with ReactJS and Redux. It allows users to add, view, and delete tasks.
+
+## Objective
+The main objective of this project is to demonstrate proficiency in building a basic React application with Redux state management
+## Features
+- **Add Task**: Input a task and add it to the list.
+- **View Tasks**: Display all tasks in a list format.
+- **Delete Task**: Remove a task from the list.
+
 ## Technologies Used
 - HTML
 - CSS
